@@ -15,24 +15,24 @@ import DashboardContextComponent from './component/contextComponent/DashboardCon
 function App() {
   let [users, setUsers] = useState([
     {
-      name: "yyy",
+      name: "ravi",
       email: 'yyy@gmail.com',
       mobile: "12345678",
-      batch: "B38WE",
+      batch: "B385WE",
       timings: '11amto1pm'
     },
     {
-      name: "zzz",
+      name: "ram",
       email: 'zzzgmail.com',
       mobile: "12345678",
-      batch: "B38WE",
+      batch: "B384WE",
       timings: '11amto1pm'
     },
     {
-      name: "sk",
+      name: "kiran",
       email: 'sklogan@gmail.com',
       mobile: "12345678",
-      batch: "B38WE",
+      batch: "B386WE",
       timings: '11amto1pm'
     }])
   return (
